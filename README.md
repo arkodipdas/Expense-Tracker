@@ -26,7 +26,7 @@ An Expense Tracker application developed with Java, Spring Boot, ReactJS, and H2
 - **Frontend**: ReactJS
 - **Database**: H2 (in-memory database for development and testing)
 - **Build Tools**: Maven
-- **Other**: RESTful APIs, JSON Web Tokens (JWT) for authentication
+- **Other**: RESTful APIs
 
 ## Getting Started
 To set up the project locally, ensure you have the following installed:
